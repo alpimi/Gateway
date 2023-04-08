@@ -18,5 +18,5 @@ Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 Open [https://mygateway.vercel.app/](https://mygateway.vercel.app/) to view it in the browser.
 
-###Devices
+## Devices
 When the app is displayed and find devices linked to any gateway, select any device to see more information.
