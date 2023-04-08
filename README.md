@@ -1,9 +1,11 @@
 # Gateway
-# Getting Started with Vite
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+#Install dependecies
+### `npm install`
 
 ### `npm run dev`
 Runs the app in the development mode.\
