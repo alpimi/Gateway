@@ -1,9 +1,5 @@
 # Gateway
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ## Install dependecies
 ### `npm install`
 
