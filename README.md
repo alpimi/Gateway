@@ -4,18 +4,17 @@
 
 In the project directory, you can run:
 
-#Install dependecies
+## Install dependecies
 ### `npm install`
 
+## Runs the app in the development mode.
 ### `npm run dev`
-Runs the app in the development mode.\
 Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
+## Builds the app for production to the `dist` folder.\
 ### `npm run build`
 
-Builds the app for production to the `dist` folder.\
-
-##Deployed App
+## Deployed App
 
 Open [https://mygateway.vercel.app/](https://mygateway.vercel.app/) to view it in the browser.
 
