@@ -64,14 +64,8 @@ export const allData = createSlice({
         state.sinc.sincSamsung.push(dataIn.item);
       } else if (dataIn.gateway === "samsung" && dataIn.type === "remove") {
         const temp = state.sinc.sincSamsung;
-        const itemToRemove = state.sinc.sincSamsung.find(
-          (item) => item.id === dataIn.item.id
-        );
-        itemToRemove &&
-          state.sinc.sincSamsung.splice(
-            state.sinc.sincSamsung.indexOf(itemToRemove),
-            1
-          );
+        const itemToRemove = temp.find((item) => item.id === dataIn.item.id);
+        itemToRemove && temp.splice(temp.indexOf(itemToRemove), 1);
       }
       if (
         state.activeGateway === "iphone" &&
@@ -82,14 +76,8 @@ export const allData = createSlice({
         state.sinc.sincIphone.push(dataIn.item);
       } else if (dataIn.gateway === "iphone" && dataIn.type === "remove") {
         const temp = state.sinc.sincIphone;
-        const itemToRemove = state.sinc.sincIphone.find(
-          (item) => item.id === dataIn.item.id
-        );
-        itemToRemove &&
-          state.sinc.sincIphone.splice(
-            state.sinc.sincIphone.indexOf(itemToRemove),
-            1
-          );
+        const itemToRemove = temp.find((item) => item.id === dataIn.item.id);
+        itemToRemove && temp.splice(temp.indexOf(itemToRemove), 1);
       }
       if (
         state.activeGateway === "xiaomi" &&
@@ -100,14 +88,8 @@ export const allData = createSlice({
         state.sinc.sincXiaomi.push(dataIn.item);
       } else if (dataIn.gateway === "xiaomi" && dataIn.type === "remove") {
         const temp = state.sinc.sincXiaomi;
-        const itemToRemove = state.sinc.sincXiaomi.find(
-          (item) => item.id === dataIn.item.id
-        );
-        itemToRemove &&
-          state.sinc.sincXiaomi.splice(
-            state.sinc.sincXiaomi.indexOf(itemToRemove),
-            1
-          );
+        const itemToRemove = temp.find((item) => item.id === dataIn.item.id);
+        itemToRemove && temp.splice(temp.indexOf(itemToRemove), 1);
       }
     },
     removeAllDevice: (state) => {

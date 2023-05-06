@@ -126,7 +126,7 @@ export const dataDevices = {
   ],
   iphone: [
     {
-      id: 1,
+      id: 12,
       vendor: "iphone",
       name: "iPhone X",
       image: defaultIphone,
@@ -135,7 +135,7 @@ export const dataDevices = {
       ipv4: "11.10.10.1",
     },
     {
-      id: 2,
+      id: 32,
       vendor: "iphone",
       name: "iPhone 13 mini",
       image: defaultIphone,
@@ -144,7 +144,7 @@ export const dataDevices = {
       ipv4: "11.10.10.2",
     },
     {
-      id: 3,
+      id: 23,
       vendor: "iphone",
       name: "iPhone X",
       image: defaultIphone,
@@ -153,7 +153,7 @@ export const dataDevices = {
       ipv4: "11.10.10.3",
     },
     {
-      id: 4,
+      id: 24,
       vendor: "iphone",
       name: "iPhone 13",
       image: defaultIphone,
@@ -162,7 +162,7 @@ export const dataDevices = {
       ipv4: "11.10.10.4",
     },
     {
-      id: 5,
+      id: 25,
       vendor: "iphone",
       name: "iPhone 13 mini",
       image: defaultIphone,
@@ -171,7 +171,7 @@ export const dataDevices = {
       ipv4: "11.10.10.11",
     },
     {
-      id: 6,
+      id: 26,
       vendor: "iphone",
       name: "iPhone 13",
       image: defaultIphone,
@@ -180,7 +180,7 @@ export const dataDevices = {
       ipv4: "11.10.10.6",
     },
     {
-      id: 7,
+      id: 27,
       vendor: "iphone",
       name: "iPhone 13 Pro",
       image: defaultIphone,
@@ -189,7 +189,7 @@ export const dataDevices = {
       ipv4: "11.10.10.7",
     },
     {
-      id: 8,
+      id: 28,
       vendor: "iphone",
       name: "iPhone 13 Pro Max",
       image: defaultIphone,
@@ -198,7 +198,7 @@ export const dataDevices = {
       ipv4: "11.10.10.12",
     },
     {
-      id: 9,
+      id: 29,
       vendor: "iphone",
       name: "iPhone 13 Pro Max",
       image: defaultIphone,
@@ -207,7 +207,7 @@ export const dataDevices = {
       ipv4: "11.10.10.9",
     },
     {
-      id: 10,
+      id: 120,
       vendor: "iphone",
       name: "iPhone SE (tercera generación)",
       image: defaultIphone,
@@ -216,7 +216,7 @@ export const dataDevices = {
       ipv4: "11.10.10.10",
     },
     {
-      id: 11,
+      id: 121,
       vendor: "iphone",
       name: "iPhone SE (tercera generación)",
       image: defaultIphone,
@@ -227,7 +227,7 @@ export const dataDevices = {
   ],
   xiaomi: [
     {
-      id: 1,
+      id: 12,
       vendor: "xiaomi",
       name: "Xiaomi 13 Pro",
       image: defaultXiaomi,
@@ -236,7 +236,7 @@ export const dataDevices = {
       ipv4: "12.10.10.18",
     },
     {
-      id: 2,
+      id: 234,
       vendor: "xiaomi",
       name: "Xiaomi 12 Pro",
       image: defaultXiaomi,
@@ -245,7 +245,7 @@ export const dataDevices = {
       ipv4: "12.10.10.2",
     },
     {
-      id: 3,
+      id: 434,
       vendor: "xiaomi",
       name: "Xiaomi 13 Pro",
       image: defaultXiaomi,
@@ -254,7 +254,7 @@ export const dataDevices = {
       ipv4: "12.10.10.3",
     },
     {
-      id: 4,
+      id: 44,
       vendor: "xiaomi",
       name: "Xiaomi 13",
       image: defaultXiaomi,
@@ -263,7 +263,7 @@ export const dataDevices = {
       ipv4: "12.10.10.4",
     },
     {
-      id: 5,
+      id: 45,
       vendor: "xiaomi",
       name: "Xiaomi 13 Pro",
       image: defaultXiaomi,
@@ -272,7 +272,7 @@ export const dataDevices = {
       ipv4: "12.10.10.10",
     },
     {
-      id: 6,
+      id: 46,
       vendor: "xiaomi",
       name: "Xiaomi 12 Pro",
       image: defaultXiaomi,
@@ -281,7 +281,7 @@ export const dataDevices = {
       ipv4: "12.10.10.6",
     },
     {
-      id: 7,
+      id: 47,
       vendor: "xiaomi",
       name: "Xiaomi 12X",
       image: defaultXiaomi,
@@ -290,7 +290,7 @@ export const dataDevices = {
       ipv4: "12.10.10.7",
     },
     {
-      id: 8,
+      id: 48,
       vendor: "xiaomi",
       name: "Xiaomi 12X",
       image: defaultXiaomi,
@@ -299,7 +299,7 @@ export const dataDevices = {
       ipv4: "12.10.10.12",
     },
     {
-      id: 9,
+      id: 49,
       vendor: "xiaomi",
       name: "Xiaomi 12 Ultra",
       image: defaultXiaomi,
@@ -308,7 +308,7 @@ export const dataDevices = {
       ipv4: "12.10.10.9",
     },
     {
-      id: 10,
+      id: 410,
       vendor: "xiaomi",
       name: "Xiaomi Note 7 Pro",
       image: defaultXiaomi,
@@ -317,7 +317,7 @@ export const dataDevices = {
       ipv4: "12.10.10.19",
     },
     {
-      id: 11,
+      id: 411,
       vendor: "xiaomi",
       name: "Xiaomi Note 7",
       image: defaultXiaomi,
